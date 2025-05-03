@@ -1,4 +1,4 @@
-# Task Management API & Frontend
+# Task Management API
 
 ## 📝 Overview
 This project is a **Task Management System** that provides a **Node.js backend** with **Express, TypeScript, and MongoDB**. It allows users to **create, read, update, and delete tasks** with authentication and filtering.
